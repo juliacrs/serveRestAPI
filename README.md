@@ -21,7 +21,7 @@ Este repositorio foi criado com a finalidade de ser executado na pipeline do Git
 ```
     npm install -g newman
 ```
-4. Realize a instalação da dependência dos relatórios [opcional]
+3. Realize a instalação da dependência dos relatórios [opcional]
   - https://www.npmjs.com/package/newman-reporter-html
   - https://www.npmjs.com/package/newman-reporter-htmlextra
 ```
