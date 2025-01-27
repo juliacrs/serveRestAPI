@@ -31,7 +31,7 @@ Este repositorio foi criado com a finalidade de ser executado na pipeline do Git
 
 # Como rodar os testes
 ### Pelo Postman web ou desktop
-- Imnporte a collection e o environment
+- Importe a collection e o environment
 - Execute os testes de forma manual ou automatizada 
 
 ### Pelo Newman
