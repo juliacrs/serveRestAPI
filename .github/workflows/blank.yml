@@ -14,10 +14,6 @@ jobs:
         run: |
           mkdir testArtifacts
 
-      #Config environment
-      - name: Install Node
-        uses: actions/setup-node@v3.4.1
-
       - name: Install Newman
         run: |
           npm install -g newman
